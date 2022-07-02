@@ -1,8 +1,5 @@
 three
 3
 1
-<<<<<<< HEAD
 four
-=======
-4
->>>>>>> develop
+
